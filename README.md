@@ -5,7 +5,7 @@
 
 In this project, I created a Word Guess command-line game using constructor functions.
 
-![Word Guess Cli](https://drive.google.com/file/d/1TgWUab0Uja8ICREiA45GkSCFl34VqQDg/view?usp=sharing)
+[Word Guess Cli Video Demo](https://drive.google.com/file/d/1TgWUab0Uja8ICREiA45GkSCFl34VqQDg/view?usp=sharing)
 
 ## Description
 
