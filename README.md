@@ -25,9 +25,9 @@ Here's a quick video demonstration: https://drive.google.com/file/d/1TgWUab0Uja8
 
 
 To run the CLI Word Guess Game, please follow the steps below:
-								git clone git@github.com:kgdowney/Word-Guess-C-Li.git
-        cd Word-Guess-C-Li
-        npm install
-        node index.js
+    git clone git@github.com:kgdowney/Word-Guess-C-Li.git
+    cd Word-Guess-C-Li
+    npm install
+    node index.js'
 
 
